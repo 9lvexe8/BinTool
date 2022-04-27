@@ -58,3 +58,4 @@
 
 # XML Files
 *.xml filter=lfs diff=lfs merge=lfs -text
+*.xml working-tree-encoding=UTF-16LE
